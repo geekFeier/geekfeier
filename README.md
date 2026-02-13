@@ -10,38 +10,6 @@
 
 ---
 
-### 💕 **飞儿的甜蜜档案** 💕
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Princess.png" alt="Princess" width="100" />
-        <br>
-        <b>✨ 绝世大美女 ✨</b>
-        <br>
-        <img src="https://progress-bar.dev/100/?title=美貌值&width=150&color=ff69b4" />
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="100" />
-        <br>
-        <b>💻 技术杠杠的 💻</b>
-        <br>
-        <img src="https://progress-bar.dev/100/?title=技术力&width=150&color=ff99cc" />
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist" width="100" />
-        <br>
-        <b>🎨 想象力天马行空 🎨</b>
-        <br>
-        <img src="https://progress-bar.dev/100/?title=创造力&width=150&color=ffb6c1" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 💝 **飞儿的爱情宣言** 💝
 
 <p align="center">
@@ -64,35 +32,7 @@
   </picture>
 </p>
 
----
-
-### 🌸 **飞儿的甜蜜小窝** 🌸
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💖-绝世大美女-ff69b4?style=for-the-badge&labelColor=ffb6c1" />
-  <img src="https://img.shields.io/badge/💻-技术杠杠的-ff69b4?style=for-the-badge&labelColor=ff99cc" />
-  <img src="https://img.shields.io/badge/🎨-想象力天马行空-ff69b4?style=for-the-badge&labelColor=ffc0cb" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Ribbon.png" alt="Heart with Ribbon" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="30" />
-</p>
-
----
-
-### 💌 **飞儿的粉丝墙** 💌
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geekfeier&label=💕%20绝世美女被围观次数%20💕&color=ff69b4&style=flat-square" alt="访客计数器" />
-  <br>
-  <img src="https://img.shields.io/badge/💘-今日心动值：100%25-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/💝-甜蜜指数：爆表-ff69b4?style=flat-square" />
-</p>
-
+--- 
 <!-- 底部粉红装饰 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,12,18,24&height=100&section=footer&text=✨%20飞儿爱你哟%20✨&fontSize=30&fontColor=ff69b4&animation=twinkling" width="100%" />
