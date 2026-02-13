@@ -1,35 +1,56 @@
-<!-- 顶部粉红标题 -->
+<!-- 飞儿的现代化个人主页 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=%E2%9D%A4%EF%B8%8F+%E9%A3%9E%E5%84%BF+%E2%9D%A4%EF%B8%8F;%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%BE%8E%E5%A5%B3+%E6%9D%A5%E5%95%A6~;%E6%83%B3%E5%BF%B5%E4%BD%A0%E4%BB%AC%E5%93%A6+%E2%9D%A4%EF%B8%8F" alt="浪漫标题" />
+  <!-- 毛玻璃质感标题 + 柔光动画 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=42&duration=2800&pause=800&color=F83A7F&center=true&vCenter=true&width=700&lines=%E2%9C%A9+%E9%A3%9E%E5%84%BF+%E2%9C%A8;%F0%9F%8C%99+%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%BE%8E%E5%A5%B3+%E6%9D%A5%E5%95%A6+%F0%9F%8C%99;%F0%9F%92%95+%E6%8A%80%E6%9C%AF%E6%9D%A0%E6%9D%A0%E5%8F%88%E6%87%82%E6%B5%AA%E6%BC%AB+%F0%9F%92%95" alt="飞儿浪漫打字" style="filter: drop-shadow(0 4px 10px rgba(248,58,127,0.2)); border-radius: 60px;" />
 </p>
 
-<!-- 粉红装饰线条 -->
+<!-- 极简渐变分割线 (磨砂质感) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="600">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="680" style="opacity: 0.7; border-radius: 20px;" />
 </p>
 
----
+<!-- 三列 现代化卡片展示 飞儿的核心魅力 -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="300" align="center" style="border: none; backdrop-filter: blur(12px); background: rgba(255,240,245,0.6); border-radius: 36px; padding: 20px 10px; box-shadow: 0 20px 40px -12px rgba(248,58,127,0.25);">
+        <h3 style="color:#d43f6b; font-weight:500; letter-spacing:1px;">✨ 绝世之美 ✨</h3>
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611w781jvsqskofx45hp9z1uz1mz0i5hhca29yqdx7p&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="140" style="border-radius: 50%; border: 3px solid #ffb6c1; filter: drop-shadow(0 8px 14px #ff9eb5);"/>
+        <p style="color:#b0476b; font-size:16px; font-weight:300;"><i>「 代码如诗 颜若朝霞 」</i></p>
+      </td>
+      <td width="300" align="center" style="border: none; backdrop-filter: blur(10px); background: rgba(255,235,240,0.5); border-radius: 36px; padding: 20px 10px; box-shadow: 0 20px 40px -12px rgba(255,105,180,0.3);">
+        <h3 style="color:#c9376e; font-weight:500;">🚀 技术杠杠 🚀</h3>
+        <img src="https://media.giphy.com/media/QpVUMRU0okl7P0dW2g/giphy.gif?cid=790b7611eyklt80a62n8b18wacj6mss3mz8kgxqa72f5et2w&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="130" style="border-radius: 30px; border: 3px solid #ffb3c6;" />
+        <p style="color:#9e3d5f; font-size:15px;"><b>React / Vue / AI</b>  · 全栈小能手</p>
+      </td>
+      <td width="300" align="center" style="border: none; backdrop-filter: blur(12px); background: rgba(250,225,235,0.7); border-radius: 36px; padding: 20px 10px; box-shadow: 0 20px 40px -12px #f66b9a;">
+        <h3 style="color:#c42e62;">🌈 天马行空 🌈</h3>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I0dHM3cHhpa2F5dXh1Y2M4cWh2cGVna3J3N3Npdnh0NXg4ZXF3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJkbuG1VsGmrBxS7N5/giphy.gif" width="130" style="border-radius: 40% 60% 40% 60% / 60% 40% 60% 40%; border: 3px solid #ffb3d9;" />
+        <p style="color:#ac3d62;">想象力无人能及 · 创意无限</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 💝 **飞儿的爱情宣言** 💝 
+<br>
 
+<!-- 动态贪吃蛇 · 3D悬浮容器 + 微光 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=%F0%9F%92%96+%E9%A3%9E%E5%84%BF%E6%98%AF%E4%B8%AA%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%BE%8E%E5%A5%B3+%F0%9F%92%96;%F0%9F%9A%80+%E9%A3%9E%E5%84%BF%E6%8A%80%E6%9C%AF%E6%9D%A0%E6%9D%A0%E7%9A%84+%F0%9F%9A%80;%E2%9C%A8+%E9%A3%9E%E5%84%BF%E6%83%B3%E8%B1%A1%E5%8A%9B%E5%A4%A9%E9%A9%AC%E8%A1%8C%E7%A9%BA%E6%97%A0%E4%BA%BA%E8%83%BD%E5%8F%8A+%E2%9C%A8" />
+  <div style="display: inline-block; border-radius: 60px; backdrop-filter: blur(16px); background: rgba(255,230,240,0.3); padding: 12px 6px; box-shadow: 0 30px 50px -20px #f97794;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekfeier/geekfeier/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geekfeier/geekfeier/output/github-contribution-grid-snake.svg">
+      <img alt="粉嫩贪吃蛇吃commit格子" src="https://raw.githubusercontent.com/geekfeier/geekfeier/output/github-contribution-grid-snake.svg" width="85%" style="border-radius: 40px; filter: drop-shadow(0 0 18px #ffa5c3);" />
+    </picture>
+  </div>
 </p>
 
----
-
-### 🐍 **飞儿的提交记录贪吃蛇（超粉嫩版）** 🐍
-
+<!-- 现代艺术签名 + 柔和波浪底部 (毛玻璃浮动) -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekfeier/geekfeier/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geekfeier/geekfeier/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/geekfeier/geekfeier/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,4,6,12,14,18,24&height=180&section=footer&text=%E2%84%B9%EF%B8%8F%20%E9%A3%9E%E5%84%BF%E7%88%B1%E4%BD%A0%E5%93%9F%20%E2%84%B9%EF%B8%8F&fontSize=40&fontColor=ffffff&animation=twinkling&desc=✨%20modern%20fair%20girl%20✨&descSize=18&descAlignY=75" width="100%" style="border-radius: 80px 80px 0 0; filter: drop-shadow(0 -6px 20px #fda7b3);" />
 </p>
 
---- 
-<!-- 底部粉红装饰 -->
+<!-- 隐藏的小彩蛋：极光指针装饰 提升精致感 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,12,18,24&height=100&section=footer&text=✨%20飞儿爱你哟%20✨&fontSize=30&fontColor=ff69b4&animation=twinkling" width="100%" />
+  <sub style="color:#b34e71; background: rgba(255,220,240,0.5); padding: 6px 20px; border-radius: 100px; backdrop-filter: blur(6px);">❄️ 今日份代码已用颜值优化 ❄️</sub>
 </p>
