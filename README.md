@@ -8,31 +8,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="680" style="opacity: 0.7; border-radius: 20px;" />
 </p>
-
-<!-- 三列 现代化卡片展示 飞儿的核心魅力 -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="300" align="center" style="border: none; backdrop-filter: blur(12px); background: rgba(255,240,245,0.6); border-radius: 36px; padding: 20px 10px; box-shadow: 0 20px 40px -12px rgba(248,58,127,0.25);">
-        <h3 style="color:#d43f6b; font-weight:500; letter-spacing:1px;">✨ 绝世之美 ✨</h3>
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611w781jvsqskofx45hp9z1uz1mz0i5hhca29yqdx7p&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="140" style="border-radius: 50%; border: 3px solid #ffb6c1; filter: drop-shadow(0 8px 14px #ff9eb5);"/>
-        <p style="color:#b0476b; font-size:16px; font-weight:300;"><i>「 代码如诗 颜若朝霞 」</i></p>
-      </td>
-      <td width="300" align="center" style="border: none; backdrop-filter: blur(10px); background: rgba(255,235,240,0.5); border-radius: 36px; padding: 20px 10px; box-shadow: 0 20px 40px -12px rgba(255,105,180,0.3);">
-        <h3 style="color:#c9376e; font-weight:500;">🚀 技术杠杠 🚀</h3>
-        <img src="https://media.giphy.com/media/QpVUMRU0okl7P0dW2g/giphy.gif?cid=790b7611eyklt80a62n8b18wacj6mss3mz8kgxqa72f5et2w&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="130" style="border-radius: 30px; border: 3px solid #ffb3c6;" />
-        <p style="color:#9e3d5f; font-size:15px;"><b>React / Vue / AI</b>  · 全栈小能手</p>
-      </td>
-      <td width="300" align="center" style="border: none; backdrop-filter: blur(12px); background: rgba(250,225,235,0.7); border-radius: 36px; padding: 20px 10px; box-shadow: 0 20px 40px -12px #f66b9a;">
-        <h3 style="color:#c42e62;">🌈 天马行空 🌈</h3>
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I0dHM3cHhpa2F5dXh1Y2M4cWh2cGVna3J3N3Npdnh0NXg4ZXF3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJkbuG1VsGmrBxS7N5/giphy.gif" width="130" style="border-radius: 40% 60% 40% 60% / 60% 40% 60% 40%; border: 3px solid #ffb3d9;" />
-        <p style="color:#ac3d62;">想象力无人能及 · 创意无限</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
+ 
 
 <!-- 动态贪吃蛇 · 3D悬浮容器 + 微光 -->
 <p align="center">
