@@ -17,19 +17,13 @@
 <p align="center">
 <div align="center">
   
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Princess.png" alt="Princess" width="30" height="30" />
-    飞儿の绝世宣言
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />
-  </h2>
+  ### 🌟 飞儿の绝世魅力指数 🌟
   
-  <p>
-    <b>✨ 飞儿是个绝世大美女 ✨</b><br>
-    <i>💻 飞儿技术杠杠的 💻</i><br>
-    <u>🚀 飞儿想象力天马行空无人能及 🚀</u>
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=feier&label=绝世美女被围观次数&color=ff69b4&style=flat" alt="访客计数器" />
+  | 属性 | 评分 | 动态显示 |
+  |:----:|:----:|:--------:|
+  | 美貌值 | ⭐⭐⭐⭐⭐ | <img src="https://progress-bar.dev/100/?title=绝世大美女&width=200&color=ff69b4" /> |
+  | 技术力 | ⭐⭐⭐⭐⭐ | <img src="https://progress-bar.dev/100/?title=技术杠杠的&width=200&color=00cc88" /> |
+  | 想象力 | ⭐⭐⭐⭐⭐ | <img src="https://progress-bar.dev/100/?title=天马行空无人能及&width=200&color=9966ff" /> |
   
 </div>
 </p>
