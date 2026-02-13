@@ -2,7 +2,7 @@
 
 ---
 
-### 📈 Contribution Graph (Weekly Update)
+### 📈 飞儿提交记录贪吃蛇
 
 <p align="center">
   <picture>
